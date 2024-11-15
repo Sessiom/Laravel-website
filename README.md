@@ -5,12 +5,12 @@ This website implements
 - SQL queries with a mySQL DB
 
 # Products View
-![](https://github.com/Sessiom/laravel-practice/home.PNG)
+![](https://github.com/Sessiom/laravel-practice/ReadMeImages/home.PNG)
 # Edit Product View
-![](https://github.com/Sessiom/laravel-practice/edit.PNG)
+![](https://github.com/Sessiom/laravel-practice/ReadMeImages/edit.PNG)
 # Delete Product View
-![](https://github.com/Sessiom/laravel-practice/delete.PNG)
+![](https://github.com/Sessiom/laravel-practice/ReadMeImages/delete.PNG)
 # Pagination 
-![](https://github.com/Sessiom/laravel-practice/pagination.PNG)
+![](https://github.com/Sessiom/laravel-practice/ReadMeImages/pagination.PNG)
 # SQL Database
-![](https://github.com/Sessiom/laravel-practice/sql.PNG)
+![](https://github.com/Sessiom/laravel-practice/ReadMeImages/sql.PNG)
