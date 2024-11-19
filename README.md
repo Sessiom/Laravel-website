@@ -10,5 +10,9 @@ This website implements
 ![](https://github.com/Sessiom/laravel-practice/blob/main/ReadMeImages/edit.PNG)
 # Delete Product View
 ![](https://github.com/Sessiom/laravel-practice/blob/main/ReadMeImages/delete.PNG)
+# Models and Controllers
+![](https://github.com/Sessiom/laravel-practice/blob/main/ReadMeImages/modelandcontroller.PNG)
+# Views
+![](https://github.com/Sessiom/laravel-practice/blob/main/ReadMeImages/views.PNG)
 # SQL Database
 ![](https://github.com/Sessiom/laravel-practice/blob/main/ReadMeImages/sql.PNG)
